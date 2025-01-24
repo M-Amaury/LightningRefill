@@ -11,6 +11,8 @@ Un système de cartes cadeaux utilisant le réseau Lightning en mode regtest. Ce
 
 ![Test](screenshots/test.png)
 
+![Paiement](screenshots/paiement.png)
+
 ## Installation
 
 1. Clonez le repository
