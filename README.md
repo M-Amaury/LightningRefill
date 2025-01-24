@@ -9,6 +9,8 @@ Un système de cartes cadeaux utilisant le réseau Lightning en mode regtest. Ce
 - Bitcoin Core en mode regtest
 - Core Lightning
 
+![Test](screenshots/test.png)
+
 ## Installation
 
 1. Clonez le repository
